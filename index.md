@@ -6,7 +6,7 @@
 # _Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation !_
 ## Applied Data Analysis - CS 401 - EPFL
 
-<p style="color:gray; font-size:80%; text-align:center;">Test Text</p>
+<p style="color:gray; font-size:80%; text-align:center;"> Test Text </p>
 
 ## Abstract
 <p style="text-align:center;">

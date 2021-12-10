@@ -24,4 +24,4 @@
 <li> Does speaking about the problem mean taking action ? </li>
 </ul>
 
-{% include figure.html %}
+{% include time_series.html %}

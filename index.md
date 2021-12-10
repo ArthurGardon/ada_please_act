@@ -10,11 +10,16 @@
 
 ## Abstract
 <p style="text-align: justify;">
-   Now more than ever, climate change is a very hotly debated topic which often comes up in the news. This year alone, the Intergovernmental Panel on Climate Change and World Meteorological Organization released very alarming reports stating that we are "way behind" on the objectives of the Paris Agreement. While there will be some individual action involved if we are to tackle the climate crisis, laws and regulations passed by governments will be imperative to avoid the worst case scenario. Using the Quotebank dataset, we were interested to see whether climate change is used as a campaign promise by politicians or if it really is a subject that is constantly talked about. Furthermore, which political groups are the most involved in proposing solutions and spreading awareness about the pressing climate crisis that we are facing. More importantly: do they Act?
+   Now more than ever, <b>climate change</b> is a very hotly debated topic which often comes up in the news. This year alone, the Intergovernmental Panel on Climate Change and World Meteorological Organization released very <b>alarming reports</b> stating that we are "way behind" on the objectives of the Paris Agreement. While there will be some individual action involved if we are to tackle the climate crisis, laws and regulations passed by governments will be imperative to avoid the worst case scenario. Using the <b>Quotebank dataset</b>, we were interested to see whether climate change is used as a <b>campaign promise by politicians</b> or if it really is a <b>subject that is constantly talked about</b>. Furthermore, which political groups are the most involved in proposing solutions and spreading awareness about the pressing climate crisis that we are facing. More importantly : do they Act?
 </p>
 
-Research questions: 
-
-Who speaks the most about climate change? What is their position on the subject? Do politicians all have the same words and opinions on the subject ? 
-What factors affect this position? What are the periods when the subject is most highlighted, and at the heart of the debates ? Do voting periods have an impact? 
-Does speaking about the problem mean taking action?
+## Our Goals 
+<ul>
+<li> Who speaks the most about climate change ? </li>
+<li> What is their position on the subject ? </li>
+<li> Do politicians all have the same words and opinions on the subject ? </li>
+<li> What factors affect this position ? </li>
+<li> What are the periods when the subject is most highlighted, and at the heart of the debates ? </li>
+<li> Do voting periods have an impact ? </li>
+<li> Does speaking about the problem mean taking action ? </li>
+</ul>

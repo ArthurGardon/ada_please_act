@@ -23,3 +23,5 @@
 <li> Do voting periods have an impact ? </li>
 <li> Does speaking about the problem mean taking action ? </li>
 </ul>
+
+{% include figure.html %}

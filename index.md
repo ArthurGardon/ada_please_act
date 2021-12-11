@@ -31,7 +31,7 @@
 
 
 <div style="display: flex;justify-content: center;">
-![image-title-here](./_includes/usa_word_cloud.png)
+![image-title-here](./_includes/usa_word_cloud.png){:class="img-responsive"}
 </div>
 
 ## Section 1

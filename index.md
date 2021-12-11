@@ -29,8 +29,10 @@
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem
 </p>
 
-## Test Image
-![image-title-here](./_includes/usa_word_cloud.png){:class="img-responsive"}
+
+<div style="display: flex;justify-content: center;">
+![image-title-here](./_includes/usa_word_cloud.png)
+</div>
 
 ## Section 1
 <p style="text-align: justify;">

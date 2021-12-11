@@ -30,9 +30,9 @@
 </p>
 
 
-<div style="display: flex;justify-content: center;">
-![image-title-here](./_includes/usa_word_cloud.png){:class="img-responsive"}
-</div>
+
+![image-title-here](./_includes/usa_word_cloud.png)
+
 
 ## Section 1
 <p style="text-align: justify;">

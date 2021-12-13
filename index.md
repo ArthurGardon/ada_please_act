@@ -30,7 +30,7 @@
 </p>
 
 
-<img src="_includes/usa_word_cloud.png" alt="hi" class="inline"/>
+<img src="usa_word_cloud.png" />
 
 
 ## Section 1

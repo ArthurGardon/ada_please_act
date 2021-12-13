@@ -30,8 +30,7 @@
 </p>
 
 
-
-![image-title-here](./_includes/usa_word_cloud.png)
+<img src="_includes/usa_word_cloud.png" alt="hi" class="inline"/>
 
 
 ## Section 1
@@ -41,7 +40,9 @@
 
 {% include time_series.html %}
 
+## Section 2
 
+{% include LDAvis.html %}
 
 
 

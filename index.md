@@ -70,25 +70,53 @@
 	<caption>Tableau 1</caption>
 	<thead>
 	<tr>
-		<th>En-tête 1</th>
-		<th>En-tête 2</th>
-		<th>En-tête 3</th>
-		<th>En-tête 4</th>
+		<th>Topic 1 : General Climate Change</th>
+		<th>Topic 2 : Business and Economy</th>
+		<th>Topic 3 : Scientifical Knowledge and Belief</th>
+		<th>Topic 4 : Concrete Impact of Climate change on the Earth and Biodiversity</th>
 	</tr>
 	</thead>
 	<tbody>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td><ul><li>Climate</li>
+			 <li>Change</li>
+			<li>Crisis</li>
+			<li>Challenge</li>
+			<li>Action</li>
+			<li>Future</li>
+			<li>Important</li></ul></td>
+		<td><ul><li>New</li>
+			 <li>Energy</li>
+			<li>Work</li>
+			<li>Business</li>
+			<li>Plan</li>
+			<li>Opportunity</li>
+			<li>Technology</li>
+			<li>Forward</li>
+			<li>Solution</li>
+			<li>Company</li></ul></td>
+		<td><ul><li>Trump</li>
+			 <li>Would</li>
+			<li>Question</li>
+			<li>Science</li>
+			<li>Scientist</li>
+			<li>Made</li>
+			<li>Debate</li>
+			<li>View</li></ul></td>
+		
+		<td><ul><li>Threat</li>
+			 <li>Existential</li>
+			<li>Extreme</li>
+			<li>Weather</li>
+			<li>Increasing</li>
+			<li>Drought</li>
+			<li>Disaster</li>
+			<li>Ocean</li>
+			<li>High</li>
+			<li>Biodiversity</li>
+			<li>Vulnerable</li></ul></td>
 	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
+
 	</tbody>
 </table>
 

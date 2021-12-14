@@ -27,7 +27,7 @@
 
 <p style="text-align: justify;">
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem
-</p>
+</p> 
 
 
 <img src="usa_word_cloud.png" />

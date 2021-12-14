@@ -62,7 +62,7 @@
 	}
 	.demo td {
 		border:1px solide #C0C0C0;
-		text-align:centre;
+		text-align:justify;
 		padding:5px;
 	}
 </style>

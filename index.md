@@ -41,6 +41,58 @@
 {% include time_series.html %}
 
 ## Section 2
+<p style="text-align: justify;">
+    Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
+   After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
+</p>
+
+<style>
+	.demo {
+		border:1px solide #C0C0C0;
+		border-collapse:effondrer;
+		padding:5px;
+	}
+	.demo caption {
+		text-align:centre;
+	}
+	.demo th {
+		border:1px solide #C0C0C0;
+		padding:5px;
+		background:#F0F0F0;
+	}
+	.demo td {
+		border:1px solide #C0C0C0;
+		text-align:centre;
+		padding:5px;
+	}
+</style>
+<table class="demo">
+	<caption>Tableau 1</caption>
+	<thead>
+	<tr>
+		<th>En-tête 1</th>
+		<th>En-tête 2</th>
+		<th>En-tête 3</th>
+		<th>En-tête 4</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	</tbody>
+</table>
+
+
 
 {% include LDAvis.html %}
 

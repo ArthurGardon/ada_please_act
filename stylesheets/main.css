@@ -54,3 +54,10 @@
     align-items:center;
 }
 
+.flex-divs-vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content :space-around;
+    align-items:left;
+}
+

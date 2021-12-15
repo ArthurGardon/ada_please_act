@@ -140,4 +140,7 @@
 {% include LDAvis.html %}
 
 
+## Section 3
+
+{% include pie_chart.html %}
 

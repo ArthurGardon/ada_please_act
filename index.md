@@ -58,78 +58,263 @@
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
 </p>
 
-<style>
-	.demo {
-		border:1px solide #C0C0C0;
-		border-collapse:effondrer;
-		padding:5px;
-	}
-	.demo caption {
-		text-align:centre;
-	}
-	.demo th {
-		border:1px solide #C0C0C0;
-		padding:5px;
-		background:#F0F0F0;
-	}
-	.demo td {
-		border:1px solide #C0C0C0;
-		text-align:justify;
-		padding:5px;
-	}
-</style>
-<table class="demo">
-	<caption>Tableau 1</caption>
-	<thead>
-	<tr>
-		<th>Topic 1 : General Climate Change</th>
-		<th>Topic 2 : Business and Economy</th>
-		<th>Topic 3 : Scientifical Knowledge and Belief</th>
-		<th>Topic 4 : Concrete Impact of Climate change on the Earth and Biodiversity</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td><ul><li>Climate</li>
-			 <li>Change</li>
-			<li>Crisis</li>
-			<li>Challenge</li>
-			<li>Action</li>
-			<li>Future</li>
-			<li>Important</li></ul></td>
-		<td><ul><li>New</li>
-			 <li>Energy</li>
-			<li>Work</li>
-			<li>Business</li>
-			<li>Plan</li>
-			<li>Opportunity</li>
-			<li>Technology</li>
-			<li>Forward</li>
-			<li>Solution</li>
-			<li>Company</li></ul></td>
-		<td><ul><li>Trump</li>
-			 <li>Would</li>
-			<li>Question</li>
-			<li>Science</li>
-			<li>Scientist</li>
-			<li>Made</li>
-			<li>Debate</li>
-			<li>View</li></ul></td>
-		
-		<td><ul><li>Threat</li>
-			 <li>Existential</li>
-			<li>Extreme</li>
-			<li>Weather</li>
-			<li>Increasing</li>
-			<li>Drought</li>
-			<li>Disaster</li>
-			<li>Ocean</li>
-			<li>High</li>
-			<li>Biodiversity</li>
-			<li>Vulnerable</li></ul></td>
-	</tr>
+<h3>Topic 1 : General Climate Change</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>Climate</li>
+      <li>Change</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Crisis</li>
+      <li>Challenge</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Action</li>
+      <li>Future</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Important</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
 
-	</tbody>
+<h3>Topic 2 : Business and Economy</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>New</li>
+      <li>Energy</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Work</li>
+      <li>Company</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Business</li>
+      <li>Plan</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Technology</li>
+      <li>Forward</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 3 : Scientifical Knowledge and Belief</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>Trump</li>
+      <li>Would</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Question</li>
+      <li>Science</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Scientist</li>
+      <li>Debate</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>View</li>
+      <li>Matter</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 4 : Concrete Impact of climate change on the Earth and Biodiversity</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>Existential</li>
+      <li>Threat</li>
+      <li>High</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Water</li>
+      <li>Ocean</li>
+      <li>Flood</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Increasing</li>
+      <li>Drought</li>
+      <li>Weather</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Disaster</li>
+      <li>Biodiversity</li>
+      <li>Vulnerable</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 5 : Energy</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>Greenhouse Gas</li>
+      <li>Reduce</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>CO2 Emission</li>
+      <li>Fuel</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Air</li>
+      <li>Pollution</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Cut</li>
+      <li>Waste</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 6 : International Concern and Cooperation arround Climate Change</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>International</li>
+      <li>Agreement</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>COP</li>
+      <li>Young People</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Adaptation</li>
+      <li>Agriculture</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Meeting</li>
+      <li>Development</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 7 : Catastrophic Records</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>Human</li>
+      <li>Caused</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Temperature</li>
+      <li>Record</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Earth</li>
+      <li>Destruction</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Human activity</li>
+      <li>Wildfire</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<h3>Topic 8 : Axis of Hope, Democrat's group</h3>
+<table>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li>United</li>
+      <li>Health Care</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Long Term</li>
+      <li>Federal</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Across country</li>
+      <li>Combating</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Greta</li>
+      <li>Tax</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
 </table>
 
 

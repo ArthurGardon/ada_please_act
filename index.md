@@ -58,7 +58,7 @@
 </p>
 
 <h3>Topic 1 : General Climate Change</h3>
-<table border = "0", align="center">
+<table border = "0">
 <tbody>
 <tr>
   <td>

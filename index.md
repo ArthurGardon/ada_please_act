@@ -29,13 +29,12 @@
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem
 </p> 
 
-<div class="grid">
-  <div class="col-1-2">
+<div class="flex-divs">
+  <div>
          <img src="usa_word_cloud.png" />
   </div>
-<div class="wraper"></div>
-  <div class="col-1-2">
-     <div class="comment">
+  <div class="wraper"></div>
+  <div>
           <h2 class="commenttitle">Common Words</h2>
 	     Top Words appearing
      </div>

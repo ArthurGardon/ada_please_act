@@ -2,6 +2,10 @@
   max-width: 80%;
 }
 
+.large_content {
+  max-width: 100%;
+}
+
 .grid {
   display: flex;
 }

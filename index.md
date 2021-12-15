@@ -30,15 +30,9 @@
 </p> 
 
 <div class="flex-divs">
-  <div>
-         <img src="usa_word_cloud.png" />
-  </div>
+  <div class="flex-divs"><img src="usa_word_cloud.png" /></div>
   <div class="wraper"></div>
-  <div>
-          <h2 class="commenttitle">Common Words</h2>
-	     Top Words appearing
-     </div>
-  </div>
+  <div class="flex-divs">Top Words appearing</div>
 </div>
 
 

@@ -2,7 +2,7 @@
 	<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
 </head>
 
-<div w3-include-html="_includes/time_series.html"></div>
+<div w3-include-html="time_series.html"></div>
 
 
 <h2 align="center" header="H1"> Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation ! </h2>

@@ -425,7 +425,7 @@
   </div>
 </div>
 
-
+<br><br>
 <div class="large_content">
 {% include LDAvis.html %}
 </div>

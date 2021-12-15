@@ -131,9 +131,9 @@
 </table>
 
 
-
+<div class="large_content">
 {% include LDAvis.html %}
-
+</div>
 
 ## Section 3
 

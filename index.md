@@ -96,7 +96,10 @@
 </div>
 
 <h3>Topic 2 : Business and Economy</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -126,9 +129,23 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Donald Trump: Former President of the USA, Republican</li>
+      <li>Gary Baueur : Republican, Conservative</li>
+    </ul>
+  </div>
+</div>
+
 
 <h3>Topic 3 : Scientifical Knowledge and Belief</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -158,9 +175,25 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Scott Pruit : Republican</li>
+      <li>Ted Cruz : Republican</li>
+      <li>Donald Trump : Republican, Former President</li>
+      <li>Marc Morano : Republican, Leader of a denying climate change organization</li>
+      <li>Will Steffen : Climatologist</li>
+    </ul>
+  </div>
+</div>
 
 <h3>Topic 4 : Concrete Impact of climate change on the Earth and Biodiversity</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -194,9 +227,24 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Catherine McKenna : Canadian Minister engaged for environment</li>
+      <li>Andrew Cuomo : Democrat</li>
+      <li>Gina McCarthy : Democrat and Administrator of the Environmental Protection Agency</li>
+      <li>Justin Trudeau : President of Canada</li>
+    </ul>
+  </div>
+</div>
 
-<h3>Topic 5 : Energy</h3>
-<table>
+<h3>Topic 5 : Energy</h3> Biodiversity</h3>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -226,9 +274,22 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Michel Jarraud : Meteorologist</li>
+      <li>Petteri Taalas: Secretary General of the World Meteorological Organization</li>
+    </ul>
+  </div>
+</div>
 
 <h3>Topic 6 : International Concern and Cooperation arround Climate Change</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -258,9 +319,23 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Bernie Sanders : Democrat</li>
+      <li>Hilary Clinton : Democrat</li>
+      <li>Scott Pruitt : Republican and Administrator of the Environmental Protection Agency</li>
+    </ul>
+  </div>
+</div>
 
 <h3>Topic 7 : Catastrophic Records</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -290,9 +365,22 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Andrew Wheeler : Lawyer and lobbyist in energy policies</li>
+      <li>Scott Pruitt: Republican and Administrator of the Environmental Protection Agency</li>
+    </ul>
+  </div>
+</div>
 
 <h3>Topic 8 : Axis of Hope, Democrat's group</h3>
-<table>
+<div class="flex-divs">
+  <div class="flex-divs-vertical">
+    <h4>Top Words</h4>
+    <table>
 <tbody>
 <tr>
   <td>
@@ -322,6 +410,20 @@
 </tr>
 </tbody>
 </table>
+  </div>
+  <div class="wrapper"></div>
+  <div class="flex-divs-vertical">
+    <h4>Top Speakers</h4>
+    <ul>
+      <li>Bernie Sanders : Democrat</li>
+      <li>Barack Obama : Former President</li>
+      <li>Jay Inslee : Democrat, Governor of Washington</li>
+      <li>Al Gore : Democrat</li>
+      <li>Justin Trudeau</li>
+      <li>Greta Thunberg</li>
+    </ul>
+  </div>
+</div>
 
 
 <div class="large_content">

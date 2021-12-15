@@ -38,4 +38,14 @@
   text-align: center;
 }
 
+.wrapper {
+  content: "";
+  background-color: #a9b2c2;
+  position: absolute;
+  width: 4px;
+  height: 100px;
+  top: 10px;
+  left: 50%;
+  display: block;
+}
 

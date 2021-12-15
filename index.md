@@ -31,7 +31,7 @@
 
 <div class="flex-divs">
   <div class="flex-divs"><img src="usa_word_cloud.png" /></div>
-  <div class="wraper"></div>
+  <div class="wrapper"></div>
   <div class="flex-divs">Top Words appearing</div>
 </div>
 

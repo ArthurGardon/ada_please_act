@@ -85,6 +85,7 @@
     </tbody>
     </table>
   </div>
+  <div class="wrapper"></div>
   <div class="flex-divs">
     <h4>Top Speakers</h4>
     <ul>

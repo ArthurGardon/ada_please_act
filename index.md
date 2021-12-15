@@ -51,7 +51,8 @@
 </p>
 
 <h3>Topic 1 : General Climate Change</h3>
-<table border = "0">
+<div style="overflow-x: auto;">
+<table>
 <tbody>
 <tr>
   <td>
@@ -75,11 +76,13 @@
   <td>
     <ul>
       <li>Important</li>
+     <li>Issue</li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
+</div>
 
 <h3>Topic 2 : Business and Economy</h3>
 <table>

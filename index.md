@@ -34,7 +34,7 @@
   <div class="col-1-2">
          <img src="usa_word_cloud.png" />
   </div>
-	<hr />
+<div class="wraper"></div>
   <div class="col-1-2">
      <div class="comment">
           <h2 class="commenttitle">Common Words</h2>

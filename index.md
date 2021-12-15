@@ -3,10 +3,6 @@
 </head>
 
 
-<h1 align="center" header="H1">
-    Please, Act! 
-</h1>
-
 <h2 align="center" header="H1"> Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation ! </h2>
 ## Applied Data Analysis - CS 401 - EPFL
 
@@ -21,13 +17,13 @@
 </p>
 
 <ul>
-<li> Who speaks the most about climate change ? </li>
-<li> What is their position on the subject ? </li>
-<li> Do politicians all have the same words and opinions on the subject ? </li>
-<li> What factors affect this position ? </li>
-<li> What are the periods when the subject is most highlighted, and at the heart of the debates ? </li>
-<li> Do voting periods have an impact ? </li>
-<li> Does speaking about the problem mean taking action ? </li>
+	<li> Who speaks the most about climate change ? </li>
+	<li> What is their position on the subject ? </li>
+	<li> Do politicians all have the same words and opinions on the subject ? </li>
+	<li> What factors affect this position ? </li>
+	<li> What are the periods when the subject is most highlighted, and at the heart of the debates ? </li>
+	<li> Do voting periods have an impact ? </li>
+	<li> Does speaking about the problem mean taking action ? </li>
 </ul>
 
 <p style="text-align: justify;">
@@ -41,7 +37,6 @@
   <div class="col-1-2">
      <div class="comment">
           <h2 class="commenttitle">Common Words</h2>
-          So this is the description I will write
      </div>
   </div>
 </div>

@@ -37,3 +37,18 @@
   margin-right: auto;
   text-align: center;
 }
+
+#wrapper_1 {
+    background-color:pink;
+    height:100px;
+    float:left;
+    width: 100px;
+}
+
+#wrapper_2 {
+    background-color:brown;
+    height:100px;
+    width: 100px;
+    float:right;
+}
+

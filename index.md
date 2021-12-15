@@ -1,3 +1,8 @@
+<head>
+	<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
+</head>
+
+
 <h1 align="center" header="H1">
     Please, Act! 
 </h1>

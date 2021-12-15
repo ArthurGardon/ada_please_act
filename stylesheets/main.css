@@ -38,17 +38,8 @@
   text-align: center;
 }
 
-#wrapper_1 {
-    background-color:pink;
-    height:100px;
-    float:left;
-    width: 100px;
+hr.vertical {
+    height:100%; /* you might need some positioning for this to work, see other questions about 100% height */
+    width:0;
+    border:1px solid black;
 }
-
-#wrapper_2 {
-    background-color:brown;
-    height:100px;
-    width: 100px;
-    float:right;
-}
-

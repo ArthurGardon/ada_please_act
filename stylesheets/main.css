@@ -6,6 +6,10 @@
   max-width: 100%;
 }
 
+h4 {
+  color :#0a63c9;
+}
+
 .grid {
   display: flex;
 }

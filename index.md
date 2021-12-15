@@ -51,37 +51,47 @@
 </p>
 
 <h3>Topic 1 : General Climate Change</h3>
-<div style="overflow-x: auto;">
-<table>
-<tbody>
-<tr>
-  <td>
+<div class="flex-divs">
+  <div class="flex-divs">
+    <h4>Top Words</h4>
+    <table>
+    <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Climate</li>
+          <li>Change</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Crisis</li>
+          <li>Challenge</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Action</li>
+          <li>Future</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Important</li>
+         <li>Issue</li>
+        </ul>
+      </td>
+    </tr>
+    </tbody>
+    </table>
+  </div>
+  <div class="flex-divs">
+    <h4>Top Speakers</h4>
     <ul>
-      <li>Climate</li>
-      <li>Change</li>
+      <li>Adam Chellaoui : Democrat</li>
+      <li>Gary Lescroc : Republican</li>
     </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Crisis</li>
-      <li>Challenge</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Action</li>
-      <li>Future</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Important</li>
-     <li>Issue</li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
+  </div>
 </div>
 
 <h3>Topic 2 : Business and Economy</h3>

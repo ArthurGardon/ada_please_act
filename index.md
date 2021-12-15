@@ -4,7 +4,6 @@
 
 
 <h2 align="center" header="H1"> Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation ! </h2>
-## Applied Data Analysis - CS 401 - EPFL
 
 ## Abstract
 <p style="text-align: justify;">
@@ -59,7 +58,7 @@
 </p>
 
 <h3>Topic 1 : General Climate Change</h3>
-<table>
+<table border = "0", align="center">
 <tbody>
 <tr>
   <td>

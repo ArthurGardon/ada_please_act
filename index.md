@@ -52,7 +52,7 @@
 
 <h3>Topic 1 : General Climate Change</h3>
 <div class="flex-divs">
-  <div class="flex-divs">
+  <div class="flex-divs-vertical">
     <h4>Top Words</h4>
     <table>
     <tbody>
@@ -86,7 +86,7 @@
     </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs">
+  <div class="flex-divs-vertical">
     <h4>Top Speakers</h4>
     <ul>
       <li>Adam Chellaoui : Democrat</li>

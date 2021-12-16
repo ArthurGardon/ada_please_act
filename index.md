@@ -84,7 +84,7 @@
     </tbody>
     </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -131,7 +131,7 @@
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -178,7 +178,7 @@
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -230,7 +230,7 @@
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -278,7 +278,7 @@
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -320,7 +320,7 @@
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -366,7 +366,7 @@ Once again, the distribution of speakers in this topic is telling. There are mai
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
@@ -411,7 +411,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 </tbody>
 </table>
   </div>
-  <div class="wrapper"></div>
+  <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>

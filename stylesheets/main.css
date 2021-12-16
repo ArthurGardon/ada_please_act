@@ -57,7 +57,7 @@ h4 {
   background-color: #a9b2c2;
   width: 3px;
   height: 80px;
-  top: 70;
+  top: 70%;
   display: flex;
 }
 
@@ -89,7 +89,7 @@ h4 {
 }
 
 .flex-divs-vertical-words {
-    width : 520px;
+    width : 550px;
     display: flex;
     flex-direction: column;
     justify-content :space-around;

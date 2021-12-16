@@ -2,7 +2,6 @@
 	<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
 </head>
 
-<h4>Test h4</h4>
 
 
 <h2 align="center" header="H1"> Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation ! </h2>
@@ -31,10 +30,11 @@
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem
 </p> 
 
-<div class="flex-divs">
-  <div class="flex-divs"><img src="usa_word_cloud.png" /></div>
+<div class="flex-divs-center">
+  <div class="flex-divs"><img src="images/usa_word_cloud_small.png" /></div>
   <div class="wrapper"></div>
-  <div class="flex-divs">Top Words appearing</div>
+	<div class="flex-divs-vertical"><span class="commenttitle">Top Words appearing</span>
+		<span class="comment">"This is a very interesting quote"</span></div>
 </div>
 
 
@@ -77,6 +77,7 @@
         <ul>
           <li>Action</li>
           <li>Future</li>
+	<li>People</li>
         </ul>
       </td>
     </tr>
@@ -104,24 +105,21 @@
     <ul>
       <li>New</li>
       <li>Energy</li>
+      <li>Ecoomic</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Work</li>
       <li>Company</li>
+      <li>Forward</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Business</li>
       <li>Plan</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Technology</li>
-      <li>Forward</li>
+      <li>Opportunity</li>    
     </ul>
   </td>
 </tr>
@@ -150,24 +148,21 @@
     <ul>
       <li>Trump</li>
       <li>Would</li>
+	<li>Question</li>
     </ul>
   </td>
   <td>
     <ul>
-      <li>Question</li>
       <li>Science</li>
+	    <li>View</li>
+	    <li>Matter</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Scientist</li>
       <li>Debate</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>View</li>
-      <li>Matter</li>
+	    <li>Whether</li>
     </ul>
   </td>
 </tr>
@@ -199,6 +194,7 @@
       <li>Existential</li>
       <li>Threat</li>
       <li>High</li>
+     <li>Disaster</li>
     </ul>
   </td>
   <td>
@@ -206,6 +202,7 @@
       <li>Water</li>
       <li>Ocean</li>
       <li>Flood</li>
+	 <li>Biodiversity</li>
     </ul>
   </td>
   <td>
@@ -213,13 +210,7 @@
       <li>Increasing</li>
       <li>Drought</li>
       <li>Weather</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Disaster</li>
-      <li>Biodiversity</li>
-      <li>Vulnerable</li>
+	<li>Vulnerable</li>
     </ul>
   </td>
 </tr>
@@ -238,7 +229,7 @@
   </div>
 </div>
 
-<h3>Topic 5 : Energy</h3> Biodiversity</h3>
+<h3>Topic 5 : Energy</h3>
 <div class="flex-divs">
   <div class="flex-divs-vertical">
     <h4>Top Words</h4>
@@ -249,24 +240,21 @@
     <ul>
       <li>Greenhouse Gas</li>
       <li>Reduce</li>
+	 <li>CO2 Emission</li>
     </ul>
   </td>
   <td>
     <ul>
-      <li>CO2 Emission</li>
-      <li>Fuel</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Air</li>
+	<li>Air</li>
       <li>Pollution</li>
+      <li>Fuel</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Cut</li>
       <li>Waste</li>
+	    <li>Carbon</li>
     </ul>
   </td>
 </tr>
@@ -294,17 +282,13 @@
     <ul>
       <li>International</li>
       <li>Agreement</li>
+	    <li>COP</li>
     </ul>
   </td>
   <td>
     <ul>
-      <li>COP</li>
       <li>Young People</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Adaptation</li>
+	<li>Adaptation</li>
       <li>Agriculture</li>
     </ul>
   </td>
@@ -312,6 +296,7 @@
     <ul>
       <li>Meeting</li>
       <li>Development</li>
+	    <li>Security</li>
     </ul>
   </td>
 </tr>
@@ -340,23 +325,20 @@
     <ul>
       <li>Human</li>
       <li>Caused</li>
+	    <li>Destruction</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Temperature</li>
       <li>Record</li>
+	 <li>Global Warming</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Earth</li>
-      <li>Destruction</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Human activity</li>
+	<li>Human activity</li>
       <li>Wildfire</li>
     </ul>
   </td>
@@ -385,24 +367,21 @@
     <ul>
       <li>United</li>
       <li>Health Care</li>
+	    <li>Sure</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Long Term</li>
       <li>Federal</li>
+	  <li>Tax</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Across country</li>
+	<li>Greta</li>
       <li>Combating</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>Greta</li>
-      <li>Tax</li>
     </ul>
   </td>
 </tr>

@@ -94,6 +94,11 @@
   </div>
 </div>
 
+<p style="text-align: justify;">
+	It is the biggest cluster, it is no wonder that the leading terms in it are « climate » and « change ». We find a lot of very common verbs and nouns, so this is not the most discriminant cluster to be associated with, and is not very meaningful of the speaker’s opinion.
+</p>
+
+
 <h3>Topic 2 : Business and Economy</h3>
 <div class="flex-divs">
   <div class="flex-divs-vertical-speaker">
@@ -136,6 +141,10 @@
   </div>
 </div>
 
+<p style="text-align: justify;">
+ The lexical field used in this topic is business. Out of context, it might be hard to even understand that we are talking about climate change. 
+	The speakers who are represented are majority Republicans, and this shows how they deal with the subject. They’re talking about "opportunity,", and speak as businessmans dealing with an economic difficulty.
+	</p>
 
 <h3>Topic 3 : Scientifical Knowledge and Belief</h3>
 <div class="flex-divs">
@@ -181,6 +190,10 @@
     </ul>
   </div>
 </div>
+
+<p style="text-align: justify;">
+	This is the subject of scientific knowledge and belief in climate change. While we find some climatologists like Will Steffen, the fact that we find so many Republicans is striking. This reflects the latent questioning about the reality of climate change within this political edge, as emphasized by the predominance of modulators such as "Would", "Question", or "Wether". Finally, the word "Trump" confirms this negationism, allong with the association with the openly denier Marc Morano.
+	</p>
 
 <h3>Topic 4 : Concrete Impact of climate change on the Earth and Biodiversity</h3>
 <div class="flex-divs">
@@ -228,6 +241,10 @@
     </ul>
   </div>
 </div>
+
+<p style="text-align: justify;">
+	This topic discusses the concrete changes and disasters caused by climate change on the environment and biodiversity. In this sense, it could be said that it is the opposite of the previous Topic 3, which is also proved by the opposition between these two topics on both sides of the PCA2 axis. Finally, we note that the speakers most present are all Democrats.
+	</p>
 
 <h3>Topic 5 : Energy</h3>
 <div class="flex-divs">
@@ -313,6 +330,9 @@
     </ul>
   </div>
 </div>
+<p style="text-align: justify;">
+Once again, the distribution of speakers in this topic is telling. There are mainly Democrats, which shows their commitment and conviction for a comprehensive and fair solution to the problem of climate change. This confirms their willingness to act and cooperate.
+	</p>
 
 <h3>Topic 7 : Catastrophic Records</h3>
 <div class="flex-divs">
@@ -355,6 +375,9 @@
     </ul>
   </div>
 </div>
+<p style="text-align: justify;">
+This topic of climatological records gives the speech mainly to politicians who were in power and governed during a period in the United States.
+	</p>
 
 <h3>Topic 8 : Axis of Hope, Democrat's group</h3>
 <div class="flex-divs">
@@ -401,6 +424,10 @@
     </ul>
   </div>
 </div>
+
+<p style="text-align: justify;">
+	Once again, the conclusions are clear. For the democrats who speak about climate change, we are talking about "union", "care" and "long term". There are thus unifying speeches that suggest optimism for the future. 
+	</p>
 
 <br><br>
 <div class="large_content">

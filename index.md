@@ -54,7 +54,7 @@
 
 <h3>Topic 1 : General Climate Change</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
     <tbody>
@@ -85,7 +85,7 @@
     </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Adam Chellaoui : Democrat</li>
@@ -96,7 +96,7 @@
 
 <h3>Topic 2 : Business and Economy</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -139,7 +139,7 @@
 
 <h3>Topic 3 : Scientifical Knowledge and Belief</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -184,7 +184,7 @@
 
 <h3>Topic 4 : Concrete Impact of climate change on the Earth and Biodiversity</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -231,7 +231,7 @@
 
 <h3>Topic 5 : Energy</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -262,7 +262,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Michel Jarraud : Meteorologist</li>
@@ -273,7 +273,7 @@
 
 <h3>Topic 6 : International Concern and Cooperation arround Climate Change</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -304,7 +304,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Bernie Sanders : Democrat</li>
@@ -316,7 +316,7 @@
 
 <h3>Topic 7 : Catastrophic Records</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -347,7 +347,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Andrew Wheeler : Lawyer and lobbyist in energy policies</li>
@@ -358,7 +358,7 @@
 
 <h3>Topic 8 : Axis of Hope, Democrat's group</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -389,7 +389,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Bernie Sanders : Democrat</li>

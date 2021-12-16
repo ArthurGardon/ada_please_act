@@ -331,14 +331,14 @@
   <td>
     <ul>
       <li>Temperature</li>
-      <li>Record</li>
+	    <li>Human activity</li>
 	 <li>Global Warming</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Earth</li>
-	<li>Human activity</li>
+	<li>Record</li>
       <li>Wildfire</li>
     </ul>
   </td>

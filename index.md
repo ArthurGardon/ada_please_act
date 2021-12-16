@@ -31,7 +31,7 @@
 </p> 
 
 <div class="flex-divs-center">
-  <div class="flex-divs"><img src="images/usa_word_cloud_small.png" /></div>
+  <div class="flex-divs"><img src="./images/usa_word_cloud_small.png" /></div>
   <div class="wrapper"></div>
 	<div class="flex-divs-vertical"><span class="commenttitle">Top Words appearing</span>
 		<span class="comment">"This is a very interesting quote"</span></div>

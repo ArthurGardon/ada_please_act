@@ -71,3 +71,11 @@ h4 {
     align-items:left;
 }
 
+.flex-divs-vertical-speaker {
+    display: flex;
+    flex-direction: column;
+    justify-content :space-around;
+    align-items:left;
+     width : 45vw;
+}
+

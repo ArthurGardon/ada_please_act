@@ -46,9 +46,18 @@ h4 {
 .wrapper {
   content: "";
   background-color: #a9b2c2;
-  width: 4px;
+  width: 3px;
   height: 80px;
   top: 50%;
+  display: flex;
+}
+
+.wrapper-div {
+  content: "";
+  background-color: #a9b2c2;
+  width: 3px;
+  height: 80px;
+  top: 70;
   display: flex;
 }
 

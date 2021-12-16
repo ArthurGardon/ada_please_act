@@ -72,7 +72,7 @@ h4 {
 }
 
 .flex-divs-vertical-speaker {
-    width : 40wv;
+    width : 45wv;
     display: flex;
     flex-direction: column;
     justify-content :space-around;

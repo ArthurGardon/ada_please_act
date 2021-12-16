@@ -63,24 +63,20 @@
         <ul>
           <li>Climate</li>
           <li>Change</li>
+	  <li>Important</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Crisis</li>
           <li>Challenge</li>
+	  <li>Issue</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Action</li>
           <li>Future</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Important</li>
-         <li>Issue</li>
         </ul>
       </td>
     </tr>

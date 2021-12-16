@@ -48,7 +48,7 @@ h4 {
   background-color: #a9b2c2;
   width: 4px;
   height: 80px;
-  top: 40%;
+  top: 50%;
   display: flex;
 }
 
@@ -72,7 +72,15 @@ h4 {
 }
 
 .flex-divs-vertical-speaker {
-    width : 470px;
+    width : 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content :space-around;
+    align-items:left;
+}
+
+.flex-divs-vertical-words {
+    width : 520px;
     display: flex;
     flex-direction: column;
     justify-content :space-around;

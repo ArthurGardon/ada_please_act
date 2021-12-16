@@ -127,7 +127,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Donald Trump: Former President of the USA, Republican</li>

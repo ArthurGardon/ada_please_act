@@ -218,7 +218,7 @@
 </table>
   </div>
   <div class="wrapper"></div>
-  <div class="flex-divs-vertical">
+  <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
       <li>Catherine McKenna : Canadian Minister engaged for environment</li>

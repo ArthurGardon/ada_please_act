@@ -34,7 +34,7 @@
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>
   <div class="wrapper"></div>
 	<div class="flex-divs-vertical"><span class="commenttitle">Top Words appearing</span>
-		<span class="comment">"This is a very interesting quote"</span></div>
+		<span class="comment">"Words have no power to impress the mind without the exquisite horror of their reality." -Edgar Allan Poe</span></div>
 </div>
 
 

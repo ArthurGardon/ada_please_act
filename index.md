@@ -166,6 +166,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 	The speakers who are represented are majority Republicans, and this shows how they deal with the subject. They’re talking about "opportunity,", and speak as businessmans dealing with an economic difficulty.
 	</p>
 
+<h4>Representative Quote</h4>
 <p style="text-align: justify;">
 <span class="comment">"[ I will ] cancel the Paris climate agreement and stop all payments of the United States' tax dollars to UN global warming programs."</span> - Donald Trump
 </p>
@@ -218,9 +219,10 @@ We can also note the sharp decrease in the average number of quotes starting mid
 <p style="text-align: justify;">
 	This is the subject of scientific knowledge and belief in climate change. While we find some climatologists like Will Steffen, the fact that we find so many Republicans is striking. This reflects the latent questioning about the reality of climate change within this political edge, as emphasized by the predominance of modulators such as "Would", "Question", or "Wether". Finally, the word "Trump" confirms this negationism, allong with the association with the openly denier Marc Morano.
 	</p>
-	
+
+<h4>Representative Quote</h4>
 <p style="text-align: justify;">
-<span class="comment">"Why not? Less snow used to `prove' global warming. Snow used to be `a thing of the past' according to climate activists. Now more snow `proves' global warming. No matter the weather, they can claim it is consistent with global warming theory."</span> - Marc Morano
+<span class="comment">"Why not? Less snow used to 'prove' global warming. Snow used to be 'a thing of the past' according to climate activists. Now more snow 'proves' global warming. No matter the weather, they can claim it is consistent with global warming theory."</span> - Marc Morano
 </p>
 	
 
@@ -273,6 +275,8 @@ We can also note the sharp decrease in the average number of quotes starting mid
 <p style="text-align: justify;">
 	This topic discusses the concrete changes and disasters caused by climate change on the environment and biodiversity. In this sense, it could be said that it is the opposite of the previous Topic 3, which is also proved by the opposition between these two topics on both sides of the PCA2 axis. Finally, we note that the speakers most present are all Democrats.
 </p>
+
+<h4>Representative Quote</h4>
 <p style="text-align: justify;">
 <span class="comment">"There is no greater imperative at this time than mobilizing more private investment in clean energy deployment in communities throughout Connecticut and across this country to combat global climate change,"</span> - Gina McCarthy
 </p>
@@ -457,14 +461,13 @@ This topic of climatological records gives the speech mainly to politicians who 
 </div>
 
 <p style="text-align: justify;">
-<span class="comment">"I am proud that, along with Senator Barbara Boxer, a few years ago we introduced the first piece of climate change legislation that called for a tax on carbon,"</span> - Bernie Sanders
-</p>
-
-
-
-<p style="text-align: justify;">
 	Once again, the conclusions are clear. For the democrats who speak about climate change, we are talking about "union", "care" and "long term". There are thus unifying speeches that suggest optimism for the future. 
 	</p>
+
+<h4>Representative Quote</h4>
+<p style="text-align: justify;">
+<span class="comment">"I am proud that, along with Senator Barbara Boxer, a few years ago we introduced the first piece of climate change legislation that called for a tax on carbon,"</span> - Bernie Sanders
+</p>
 	
 <br><br>
 
@@ -490,9 +493,11 @@ This topic of climatological records gives the speech mainly to politicians who 
 </div>
 <br>
 
-{% include pie_chart_crisis.html %}
+{% include interractive_map.html %}
+
 <br>
-{% include pie_chart_business.html %}
+{% include bar_chart 10.html %}
+
 <br>
-{% include bar_chart.html %}
+{% include difference.html %}
 

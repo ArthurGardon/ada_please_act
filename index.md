@@ -41,18 +41,24 @@
 
 ## Section 1
 <p style="text-align: justify;">
-    With the quotes relating to climate change gathered from the Quotebank dataset, we aim to tackle our first question about climate change in politics and media outlets. Is climate change really at the heart of debate or is it just talked about when big events arise and then forgotten until next catastrophe? 
-We plotted the amount of quotes per week in a time series so as to visualize the evolution over time. As we can see, the topic changes in popularity quite a lot. There are clear spikes in the amount of quotes, which we tried to annotate in the following graph. 
+With the quotes relating to climate change gathered from the Quotebank dataset, we aim to tackle our first question about climate change in politics and media outlets. Is climate change really at the heart of debate or is it just talked about when big events arise and then forgotten until next catastrophe? 
+We plotted the amount of quotes per week in a time series so as to visualize the evolution over time.
+	
+
+As we can see, the topic changes in popularity quite a lot. There are clear spikes in the amount of quotes, which we tried to annotate in the following graph. 
 </p>    
 
 {% include time_series.html %}
 
 <p style="text-align: justify;">
 We separated events in three different categories. There are intergovernmental events such as the G20 or the Conference Of the Parties (COP). Usually, the COP make a bigger difference in the peak  which is to be expected as climate policies are the key point discussed in these conferences. We also annotated key political events (primaries or statements released by the US government). The biggest peak of the graph hails from this category, and relates to the withdrawal from the Paris Agreements by President Donald Trump in June of 2017. Finally, there are climate catastrophes like wildfires, or unusual temperatures. 
-
+</p>  
+<p style="text-align: justify;">
 While these all cause notable spikes in media coverage, they disappear almost immediately. During COP, which usually last two weeks, there is usually a spike in interest on the second week and immediately drops off. The Amazonian Fires saw a spike in popularity in September of 2019, despite having gone on for several months already. For a single week, every media outlet was writing about how it is the utmost priority to stop these fires, and everyone made cute stories on Instagram showing the world how much they cared. Once the trend passes, we all forget until we are reminded by a greater and greater threat that immediate action must be taken. 
 </p>    
-
+<p style="text-align: justify;">
+We can also note the sharp decrease in the average number of quotes starting mid February of 2020. This is probably caused by the media coverage COVID-19 got as it took over the world. As the dataset stops in April of 2020 (which is when COVID was at it’s strongest) we just see the decrease. It would be interesting to see if we are back to the pre-COVID graph now. If we ignore 2020, it seems that the graph is trending upwards. This is encouraging, and we might finally be taking in the importance of what is ahead. 
+</p>  
 ## Section 2
 <p style="text-align: justify;">
     Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>

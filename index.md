@@ -480,9 +480,10 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <h3> Conclusion of this Section </h3>
 <p style="text-align: justify;">
-	We were able to show that some topics like topic 2 and topic 3, wear a certain denialist and minimizing ideology about climate change, refuse to see reality, and may moreover deal with climate change from an economic perspective and with a business logic. Those two topics which are close on a meaningful aspect, are also found close on the LDA PCA projection graph. And as the following cast shows, we can see that this ideology is unique to the Republican Party.
+We were able to show that some topics like topic 2 and topic 3, wear a certain denialist and minimizing ideology about climate change, refuse to see reality, and may moreover deal with climate change from an economic perspective and with a business logic. Those two topics which are close on a meaningful aspect, are also found close on the LDA PCA projection graph. And as the following cast shows, we can see that this ideology is unique to the Republican Party.</p>
 	
-	On the other hand, Democrats are in the strong majority in topics 4 and topic 8, which we have established as axes which affirm the concrete impact of climate change, and give a speech that is both alarming and optimistic, which calls for action.
+<p style="text-align: justify;">
+On the other hand, Democrats are in the strong majority in topics 4 and topic 8, which we have established as axes which affirm the concrete impact of climate change, and give a speech that is both alarming and optimistic, which calls for action.
 </p>
 	
 <div class="flex-divs-center">

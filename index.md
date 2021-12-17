@@ -525,7 +525,7 @@ In addition, our dataset being composed of public quotes relayed on newspapers, 
 </div>
 <p style="text-align: justify;">
 On the left, we can see the 2016 election results, with democrat states blue and republican ones in red. On the right, the states having entered the United State Climate Alliance are highlighted. </p>
-<br>
+
 <p style="text-align: justify;">
 Another way this division is showcased is through the United State Climate Alliance coalition. This coalition was created after the rescinding of the Paris agreement by President Trump, urging states to keep striving towards the goals set at the COP 21. The agreement was signed by 12 Democratic states and only 2 Republican states a couple of weeks later. Just like the Paris agreements they aren’t real regulations, but do show an interest in making a change for the better. 
 </p>

@@ -2,7 +2,7 @@
   max-width: 80%;
 }
 
-table{
+.main-content table{
   display: table;
   min-width: 60vh; 
 }

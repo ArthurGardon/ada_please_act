@@ -75,9 +75,33 @@ We can also note the sharp decrease in the average number of quotes starting mid
 <div class="flex-divs">
   <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
-      | Climate | Crisis | Action |
-      | Change | Challenge | Future |
-      | Important | Issue | People | 
+    <table>
+    <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Climate</li>
+          <li>Change</li>
+	  <li>Important</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Crisis</li>
+          <li>Challenge</li>
+	  <li>Issue</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Action</li>
+          <li>Future</li>
+	<li>People</li>
+        </ul>
+      </td>
+    </tr>
+    </tbody>
+    </table>
   </div>
   <div class="wrapper-div"></div>
   <div class="flex-divs-vertical-speaker">

@@ -517,3 +517,13 @@ This topic of climatological records gives the speech mainly to politicians who 
 <br>
 {% include difference.html %}
 
+<div>
+	<iframe name="mapiframe" id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~elsamusy/1.embed" height="525" width="100%"></iframe>
+</div>
+	
+	
+	
+	
+	
+	
+	

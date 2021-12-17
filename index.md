@@ -519,6 +519,11 @@ This topic of climatological records gives the speech mainly to politicians who 
 	<iframe name="mapiframe" id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~elsamusy/1.embed" height="525" width="100%"></iframe>
 </div>
 
+<div class="flex-divs-center">
+	<div style="flex;"> <img src="./images/US-party.svg.png" /></div>
+	<divstyle="flex;"> <img src="./images/US-climate-alliance.svg.png" /></div>
+</div>
+
 <p style="text-align: justify;">
 	We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive.
 	</p>

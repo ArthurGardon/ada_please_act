@@ -496,7 +496,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 {% include interactive_map.html %}
 
 <br>
-{% include bar_chart 10.html %}
+{% include bar_chart_10.html %}
 
 <br>
 {% include difference.html %}

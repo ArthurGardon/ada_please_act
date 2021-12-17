@@ -430,7 +430,12 @@ This topic of climatological records gives the speech mainly to politicians who 
 	</p>
 	
 <br><br>
-{% include frequencies_per_topic.html %}
+
+<div class="flex-divs-center">
+	<div style="display : flex;">
+	{% include frequencies_per_topic.html %}
+	</div>
+</div>
 
 <br><br>
 <div class="large_content">

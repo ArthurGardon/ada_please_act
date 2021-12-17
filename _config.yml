@@ -1,7 +1,8 @@
 # Set up
 title: Please, Act!
 email: your-email@example.com
-
+github:
+  is_project_page: false
 
 # Design
 markdown: kramdown

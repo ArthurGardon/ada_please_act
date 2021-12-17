@@ -492,6 +492,9 @@ On the other hand, Democrats are in the strong majority in topics 4 and topic 8,
 	</div>
 </div>
 
+<p style="text-align: justify;">
+In addition, our dataset being composed of public quotes relayed on newspapers, we can easily imagine that the comments of the deniers are surely softened compared to their raw ideas. As expression channels such as social networks remain freer and less formal, we will not have the right in this dataset to a "The concept of global warming was created by and for the Chinese in order to make US manufacturing non-competitive .", as Donald Trump tweeted. Despite this, we obtain very satisfactory results, which nevertheless bring out these ideologies to light.
+</p>
 <br><br>
 
 <h2 id="section3"> III. Behavioral Analysis </h2>

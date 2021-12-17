@@ -28,9 +28,9 @@
 
 <p style="text-align: justify;">
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem by giving an answer to each of our questions in three sections :</p>
-<a href="#section1"> I. Temporal Analysis </a><br>
-<a href="#section2"> II. Semantique Analysis</a><br>
-<a href="#section3"> III. Behavioral Analysis</a>
+<h3><a href="#section1"> I. Temporal Analysis </a><br></h3>
+<h3><a href="#section2"> II. Semantique Analysis</a><br></h3>
+<h3><a href="#section3"> III. Behavioral Analysis</a></h3>
 
 <div class="flex-divs-center">
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>

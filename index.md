@@ -38,8 +38,8 @@
 <div class="flex-divs-center">
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>
   <div class="wrapper"></div>
-	<div class="flex-divs-vertical" style="width: 50%;"><span class="commenttitle">Top Words appearing</span>
-		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>         - Al Gore, Former US Vice President</div>
+	<div class="flex-divs-vertical" style="width: 50%;"><span class="commenttitle">Top Words appearing</span><br>
+		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>         <span style="text-align: center;">- Al Gore, Former US Vice President</span></div>
 </div>
 
 

@@ -438,8 +438,10 @@ This topic of climatological records gives the speech mainly to politicians who 
 </div>
 
 <br><br>
-<div class="large_content">
-{% include LDAvis.html %}
+<div class="flex-divs-center">
+	<div class="display : flex;">
+	{% include LDAvis.html %}
+	</div>
 </div>
 
 ## Section 3

@@ -486,6 +486,10 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <h2 id="section3"> III. Behavioral Analysis </h2>
 
+<p style="text-align: justify;">
+Finally, we aim to see where most of these quotes come from and whether these quotes translate into meaningful actions. As seen previously, most of these quotes hail from the Democratic Party, with the Republican party only representing less than a quarter of the quotes. We also saw that they use the climate change subject for different objectives, as is displayed in the bar graph below. Democrats are slightly more likely to use the word “crisis” than republicans, but the latter are far more likely to talk about business in climate related quotes. There is a clear divide in the perception and the priority with relation to climate change.
+</p>
+
 <div class="flex-divs-center">
 	<div>
 	{% include pie_chart_parties_quotes.html %}
@@ -499,11 +503,20 @@ This topic of climatological records gives the speech mainly to politicians who 
 <br>
 
 
+<p style="text-align: justify;">
+Now, where do these quotes come from? Unsurprisingly, the most populated democrat states produce the highest number of quotes with the state of Washington being the most outspoken about the subject, and Arkansas the lowest. In order to see if climate was a bigger priority in states where it was talked about the most, we crossed these measurements with an “environment” score for each state based on their climate policies. These look pretty correlated, with states like Vermont or Colorado being at the top. 
+</p>
+
 {% include interactive_map.html %}
 
 {% include try.html %}
 
 <br>
+
+<p style="text-align: justify;">
+We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive. 
+</p>
+
 {% include bar_chart_10.html %}
 
 <br>

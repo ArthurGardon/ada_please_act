@@ -80,7 +80,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h3>Topic 1 : General Climate Change</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
     <tbody>
@@ -128,7 +128,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h3>Topic 2 : Business and Economy</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -181,7 +181,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h3>Topic 3 : Scientifical Knowledge and Belief</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -212,7 +212,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 </table>
   </div>
   <div class="wrapper-div"></div>
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Speakers</h4>
     <ul>
       <li>Scott Pruit : Republican</li>
@@ -234,7 +234,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h3>Topic 4 : Concrete Impact of climate change on the Earth and Biodiversity</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -288,7 +288,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h3>Topic 5 : Air Pollution and Fossil Energy</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -333,7 +333,7 @@ In this section, we see a lot of concern about the air quality from meteorologis
 
 <h3>Topic 6 : International Concern and Cooperation arround Climate Change</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -379,7 +379,7 @@ Once again, the distribution of speakers in this topic is telling. There are mai
 
 <h3>Topic 7 : Catastrophic Records</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>
@@ -425,7 +425,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <h3>Topic 8 : Axis of Hope, Democrat's group</h3>
 <div class="flex-divs">
-  <div class="flex-divs-vertical-speaker">
+  <div class="flex-divs-vertical-word">
     <h4>Top Words</h4>
     <table>
 <tbody>

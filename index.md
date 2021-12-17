@@ -513,7 +513,7 @@ In addition, our dataset being composed of public quotes relayed on newspapers, 
 	{% include bar_chart_words.html %}
 	</div>
 </div>
-<br>
+
 
 <p style="text-align: justify;">
 	Now, where do these quotes come from? Unsurprisingly, the most populated democrat states produce the highest number of quotes with the state of Washington being the most outspoken about the subject, and Arkansas the lowest. In order to see if climate was a bigger priority in states where it was talked about the most, we crossed these measurements with an “environment” score for each state based on their climate policies. These look pretty correlated, with states like Vermont or Colorado being at the top.

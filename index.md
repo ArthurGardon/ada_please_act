@@ -28,14 +28,14 @@
 
 <p style="text-align: justify;">
     The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem by giving an answer to each of our questions in three sections :</p>
-<a href="#section1"> I. Temporal Analysis </a>
-<a href="#section2"> II. Semantique Analysis</a>
+<a href="#section1"> I. Temporal Analysis </a><br>
+<a href="#section2"> II. Semantique Analysis</a><br>
 <a href="#section3"> III. Behavioral Analysis</a>
 
 <div class="flex-divs-center">
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>
   <div class="wrapper"></div>
-	<div class="flex-divs-vertical"><span class="commenttitle">Top Words appearing</span>
+	<div class="flex-divs-vertical" id="constrained"><span class="commenttitle">Top Words appearing</span>
 		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>- Al Gore, Former US Vice President</div>
 </div>
 
@@ -63,7 +63,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 </p> 
 
 
-<h2 id="section1"> II. Semantique Analysis </h2>
+<h2 id="section2"> II. Semantique Analysis </h2>
 <p style="text-align: justify;">
     Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
@@ -483,7 +483,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <br><br>
 
-<h2 id="section1"> III. Behavioral Analysis </h2>
+<h2 id="section3"> III. Behavioral Analysis </h2>
 
 <div class="flex-divs-center">
 	<div>

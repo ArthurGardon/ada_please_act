@@ -503,9 +503,9 @@ This topic of climatological records gives the speech mainly to politicians who 
 	Now, where do these quotes come from? Unsurprisingly, the most populated democrat states produce the highest number of quotes with the state of Washington being the most outspoken about the subject, and Arkansas the lowest. In order to see if climate was a bigger priority in states where it was talked about the most, we crossed these measurements with an “environment” score for each state based on their climate policies. These look pretty correlated, with states like Vermont or Colorado being at the top.
 	</p>
 
-{% include interactive_map.html %}
-
-{% include try.html %}
+<div>
+	<iframe name="mapiframe" id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~elsamusy/2.embed" height="525" width="100%"></iframe>
+</div>
 
 <p style="text-align: justify;">
 	We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive.

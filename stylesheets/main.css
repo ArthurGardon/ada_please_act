@@ -2,11 +2,6 @@
   max-width: 80%;
 }
 
-.main-content p{
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
 table{
   display: table;
   min-width: 60vh; 

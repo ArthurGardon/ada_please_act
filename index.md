@@ -538,6 +538,10 @@ Another way this division is showcased is through the United State Climate Allia
 	<div> {% include trend2.html %} </div>
 </div>
 
+<p style="text-align: justify;">
+	Is the correlation between the number of quotes, emissions and environmental score statistically significant on a state by state basis? When calculating the Spearman correlation between quotes and emissions, it turns out to be negative with a p-value < 0.05. We can reject the null hypothesis that there is no influence between the two. For the environmental scores, it is also statistically significant with a positive correlation. This endorses the analyses done previously on the graphs. 
+</p>
+
 <div class="flex-divs-center">
 {% include barchart.html %}
 </div>

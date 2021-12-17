@@ -62,10 +62,11 @@ h4 {
   content: "";
   background-color: #a9b2c2;
   width: 3px;
-  height: 80px;
-  top: 60%;
+  height: 130px;
+  margin-top: 2.5em;
   display: block;
 }
+
 
 
 .flex-divs {

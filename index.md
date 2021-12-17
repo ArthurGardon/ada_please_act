@@ -518,10 +518,14 @@ This topic of climatological records gives the speech mainly to politicians who 
 <div>
 	<iframe name="mapiframe" id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~elsamusy/1.embed" height="525" width="100%"></iframe>
 </div>
-
+<p style="text-align: justify;">
+On the left, we can see the 2016 election results, with democrat states blue and republican ones in red. On the right, the states having entered the United State Climate Alliance are highlighted. 
+<br>
+Another way this division is showcased is through the United State Climate Alliance coalition. This coalition was created after the rescinding of the Paris agreement by President Trump, urging states to keep striving towards the goals set at the COP 21. The agreement was signed by 12 Democratic states and only 2 Republican states a couple of weeks later. Just like the Paris agreements they aren’t real regulations, but do show an interest in making a change for the better. 
+</p>
 <div class="flex-divs-center">
 	<div style="flex;"> <img src="./images/US-party.svg.png" /></div>
-	<divstyle="flex;"> <img src="./images/US-climate-alliance.svg.png" /></div>
+	<div style="flex;"> <img src="./images/US-climate-alliance.svg.png" /></div>
 </div>
 
 <p style="text-align: justify;">

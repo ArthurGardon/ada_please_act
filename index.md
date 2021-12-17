@@ -532,15 +532,10 @@ Another way this division is showcased is through the United State Climate Allia
 <p style="text-align: justify;">
 	We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive.
 	</p>
-	
-<div class="flex-divs-center">
-	<div> {% include trend1.html %} </div>
-	<div> {% include trend2.html %} </div>
-</div>
 
-<p style="text-align: justify;">
-	Is the correlation between the number of quotes, emissions and environmental score statistically significant on a state by state basis? When calculating the Spearman correlation between quotes and emissions, it turns out to be negative with a p-value < 0.05. We can reject the null hypothesis that there is no influence between the two. For the environmental scores, it is also statistically significant with a positive correlation. This endorses the analyses done previously on the graphs. 
-</p>
+<br>
+<div class="flex-divs-center"> {% include trend1.html %} </div>
+<div class="flex-divs-center"> {% include trend2.html %} </div>
 
 <div class="flex-divs-center">
 {% include barchart.html %}

@@ -67,7 +67,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 <h2 id="section2"> II. Semantique Analysis </h2>
 <p style="text-align: justify;">
     Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
-   After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
+   After running a cross validation on the numbeer of topics, we stood with the solution having the maximum average topic coherence : 8 topics. For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic. In addition to this, for the most impacting topics, we provide a representative quote to illustrate them better. 
 </p>
 <br>
 <div class="flex-divs-center">
@@ -112,8 +112,9 @@ We can also note the sharp decrease in the average number of quotes starting mid
   <div class="flex-divs-vertical-speaker">
     <h4>Top Speakers</h4>
     <ul>
-      <li>Adam Chellaoui : Democrat</li>
-      <li>Gary Lescroc : Republican</li>
+      <li>Harsh Vardhan : Indian Parlementary</li>
+      <li>Prakash Javadekar : Indian Politician</li>
+     <li>Mohammad Saleem : Indian Doctor in Toxicology</li>
     </ul>
   </div>
 </div>
@@ -213,10 +214,8 @@ We can also note the sharp decrease in the average number of quotes starting mid
     <h4>Top Speakers</h4>
     <ul>
       <li>Scott Pruit : Republican</li>
-      <li>Ted Cruz : Republican</li>
-      <li>Donald Trump : Republican, Former President</li>
+      <li>Donald Trump : Republican, Former US President</li>
       <li>Marc Morano : Republican, Leader of a denying climate change organization</li>
-      <li>Will Steffen : Climatologist</li>
     </ul>
   </div>
 </div>
@@ -272,8 +271,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
     <ul>
       <li>Catherine McKenna : Canadian Minister engaged for environment</li>
       <li>Andrew Cuomo : Democrat</li>
-      <li>Gina McCarthy : Democrat and Administrator of the Environmental Protection Agency</li>
-      <li>Justin Trudeau : President of Canada</li>
+      <li>Gina McCarthy : Administrator of the Environmental Protection Agency</li>
     </ul>
   </div>
 </div>
@@ -384,15 +382,16 @@ Once again, the distribution of speakers in this topic is telling. There are mai
   <td>
     <ul>
       <li>Human</li>
+	<li>Activity</li>
       <li>Caused</li>
-	    <li>Destruction</li>
+	<li>Destruction</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Temperature</li>
-	    <li>Human activity</li>
-	 <li>Global Warming</li>
+	 <li>Global</li>
+	    <li>Warming</li>
     </ul>
   </td>
   <td>
@@ -459,8 +458,6 @@ This topic of climatological records gives the speech mainly to politicians who 
       <li>Barack Obama : Former President</li>
       <li>Jay Inslee : Democrat, Governor of Washington</li>
       <li>Al Gore : Democrat</li>
-      <li>Justin Trudeau</li>
-      <li>Greta Thunberg</li>
     </ul>
   </div>
 </div>
@@ -486,10 +483,6 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <h2 id="section3"> III. Behavioral Analysis </h2>
 
-<p style="text-align: justify;">
-Finally, we aim to see where most of these quotes come from and whether these quotes translate into meaningful actions. As seen previously, most of these quotes hail from the Democratic Party, with the Republican party only representing less than a quarter of the quotes. We also saw that they use the climate change subject for different objectives, as is displayed in the bar graph below. Democrats are slightly more likely to use the word “crisis” than republicans, but the latter are far more likely to talk about business in climate related quotes. There is a clear divide in the perception and the priority with relation to climate change.
-</p>
-
 <div class="flex-divs-center">
 	<div>
 	{% include pie_chart_parties_quotes.html %}
@@ -503,20 +496,11 @@ Finally, we aim to see where most of these quotes come from and whether these qu
 <br>
 
 
-<p style="text-align: justify;">
-Now, where do these quotes come from? Unsurprisingly, the most populated democrat states produce the highest number of quotes with the state of Washington being the most outspoken about the subject, and Arkansas the lowest. In order to see if climate was a bigger priority in states where it was talked about the most, we crossed these measurements with an “environment” score for each state based on their climate policies. These look pretty correlated, with states like Vermont or Colorado being at the top. 
-</p>
-
 {% include interactive_map.html %}
 
 {% include try.html %}
 
 <br>
-
-<p style="text-align: justify;">
-We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive. 
-</p>
-
 {% include bar_chart_10.html %}
 
 <br>

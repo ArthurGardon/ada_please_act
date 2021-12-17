@@ -51,6 +51,12 @@
     Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
 </p>
+<br>
+<div class="flex-divs-center">
+	<div class="display : flex;">
+	{% include LDAvis.html %}
+	</div>
+</div>
 
 <h3>Topic 1 : General Climate Change</h3>
 <div class="flex-divs">
@@ -438,11 +444,6 @@ This topic of climatological records gives the speech mainly to politicians who 
 </div>
 
 <br><br>
-<div class="flex-divs-center">
-	<div class="display : flex;">
-	{% include LDAvis.html %}
-	</div>
-</div>
 
 ## Section 3
 

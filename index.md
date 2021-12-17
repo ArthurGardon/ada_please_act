@@ -428,6 +428,9 @@ This topic of climatological records gives the speech mainly to politicians who 
 <p style="text-align: justify;">
 	Once again, the conclusions are clear. For the democrats who speak about climate change, we are talking about "union", "care" and "long term". There are thus unifying speeches that suggest optimism for the future. 
 	</p>
+	
+<br><br>
+{% include frequencies_per_topic.html %}
 
 <br><br>
 <div class="large_content">

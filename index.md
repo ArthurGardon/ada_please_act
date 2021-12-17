@@ -72,8 +72,8 @@ We can also note the sharp decrease in the average number of quotes starting mid
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum average topic coherence : 8 topics. For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic. In addition to this, for the most impacting topics, we provide a representative quote to illustrate them better. 
 </p>
 <br>
+	<p style="text-align: center;"> Result of the LDA, after a projection the two dimensional principal components</p>
 <div class="flex-divs-center">
-	<p> Result of the LDA, after a projection the two dimensional principal components</p>
 	<div class="display : flex;">
 	{% include LDAvis.html %}
 	</div>

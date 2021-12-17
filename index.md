@@ -137,7 +137,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
     <ul>
       <li>New</li>
       <li>Energy</li>
-      <li>Ecoomic</li>
+      <li>Economic</li>
     </ul>
   </td>
   <td>
@@ -475,6 +475,13 @@ This topic of climatological records gives the speech mainly to politicians who 
 	
 <br>
 
+<h3> Conclusion of this Section </h3>
+<p style="text-align: justify;">
+	We were able to show that some topics like topic 2 and topic 3, wear a certain denialist and minimizing ideology about climate change, refuse to see reality, and may moreover deal with climate change from an economic perspective and with a business logic. Those two topics which are close on a meaningful aspect, are also found close on the LDA PCA projection graph. And as the following cast shows, we can see that this ideology is unique to the Republican Party.
+	
+	On the other hand, Democrats are in the strong majority in topics 4 and topic 8, which we have established as axes which affirm the concrete impact of climate change, and give a speech that is both alarming and optimistic, which calls for action.
+</p>
+	
 <div class="flex-divs-center">
 	<div style="display : flex;">
 	{% include frequencies_per_topic.html %}
@@ -511,25 +518,18 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <p style="text-align: justify;">
 	We also tried to correlate the amount of climate change related quotes with CO2 emissions of each state. There is a slight correlation (although not very big), but it probably isn’t exclusively linked to personal habits. States where the economy relies heavily on agriculture or industry are typically more republican, and these activities emit large amount of CO2 as they are very energy expensive.
-</p>
+	</p>
 
 <div class="flex-divs-center">
-{% include bar_chart_10.html %}
+{% include barchart.html %}
 </div>
-<p style="text-align: justify;">
-  To try and observe this divide, we calculated the difference between the normalized CO2 emissions and amount of quotes relating to climate change per state. With the exception of a few states, Democratic states always have more quotes than they have emissions. The opposite is also true for Republican states. While this might be explained by the aforementioned explanation, it is clear that climate action is one of the dividing factors between the two political parties. 
-</p>
+
 <br>
 {% include difference.html %}
 
-<p style="text-align: justify;">
-Climate change isn't really being treated as the emergency it is in the US. While it seems that the subject is being brought to light more and more regularly, it isn't enough. The subject comes and goes as the public opinion is reminded at every wildfire, hurricane and flash flood that this is our only planet and that we have to take care of it. 
-Still, not everyone agrees on the stance to take regarding climate change. Democrats tend to be more alarmed than Republicans, who seem very worried about the business aspect of things.
-Concerns about climate change are not spread evenly geographically either: once again, it is the democrat states which are talking the most about it. As these states have an economy less reliant on industry and energy heavy jobs, it makes a transition towards emitting less greenhouse gases easier. But if we took into considerations where the products of the industrial states are consumed, would we still be seeing these small desolate states pollute so much? 
-</p>
-<p style="text-align: justify;">
-The only way we are going to stop climate change and commit to a 2 degree future (we already missed the train for 1.5C!) is by working together. Climate action need to be more than a partisan issue. It involves all of us as human beings living on the one and only beautiful planet Earth. 
-</p>
-<p style="text-align: center; max-width: 50%;" >
-“We are the first generation to feel the effect of climate change and the last generation who can do something about it.” - Barack Obama
-</p>
+	
+	
+	
+	
+	
+	

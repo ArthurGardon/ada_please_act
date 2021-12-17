@@ -550,6 +550,7 @@ Another way this division is showcased is through the United State Climate Allia
 
 {% include difference.html %}
 
+<h2> Conclusion </h2>
 <p style="text-align: justify;">
 Climate change isn't really being treated as the emergency it is in the US. While it seems that the subject is being brought to light more and more regularly, it isn't enough. The subject comes and goes as the public opinion is reminded at every wildfire, hurricane and flash flood that this is our only planet and that we have to take care of it. 
 Still, not everyone agrees on the stance to take regarding climate change. Democrats tend to be more alarmed than Republicans, who seem very worried about the business aspect of things.
@@ -558,6 +559,8 @@ Concerns about climate change are not spread evenly geographically either: once 
 <p style="text-align: justify;">
 The only way we are going to stop climate change and commit to a 2 degree future (we already missed the train for 1.5C!) is by working together. Climate action need to be more than a partisan issue. It involves all of us as human beings living on the one and only beautiful planet Earth. 
 </p>
+<div class="flex-divs-center">
 <p style="text-align: center; max-width: 50%;" >
 “We are the first generation to feel the effect of climate change and the last generation who can do something about it.” - Barack Obama
 </p>
+</div>

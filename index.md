@@ -447,7 +447,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 ## Section 3
 
-{% include pie_chart.html %}
+{% include pie_chart_parties_quotes.html %}
 <br>
 {% include pie_chart_crisis.html %}
 <br>

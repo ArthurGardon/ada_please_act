@@ -17,29 +17,31 @@
 </p>
 
 <ul>
+	<li> What are the periods when the subject is most highlighted, and at the heart of the debates ? </li>
+	<li> Do voting periods have an impact ? </li>
 	<li> Who speaks the most about climate change ? </li>
 	<li> What is their position on the subject ? </li>
 	<li> Do politicians all have the same words and opinions on the subject ? </li>
 	<li> What factors affect this position ? </li>
-	<li> What are the periods when the subject is most highlighted, and at the heart of the debates ? </li>
-	<li> Do voting periods have an impact ? </li>
 	<li> Does speaking about the problem mean taking action ? </li>
 </ul>
 
 <p style="text-align: justify;">
-    The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem
-</p> 
+    The first part of our study was to retrieve for the Quotebank dataset the quotes related to climate-change from 2015 and 2020. Then, we tackled the problem by giving an answer to each of our questions in three sections :</p>
+<a href="#section1"> I. Temporal Analysis </a>
+<a href="#section2"> II. Semantique Analysis</a>
+<a href="#section3"> III. Behavioral Analysis</a>
 
 <div class="flex-divs-center">
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>
   <div class="wrapper"></div>
 	<div class="flex-divs-vertical"><span class="commenttitle">Top Words appearing</span>
-		<span class="comment">"Good quote here" - Adam Chellaoui</span></div>
+		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>- Al Gore, Former US Vice President</div>
 </div>
 
 
 
-## Section 1
+<h2 id="section1"> I. Temporal Analysis </h2>
 <p style="text-align: justify;">
 With the quotes relating to climate change gathered from the Quotebank dataset, we aim to tackle our first question about climate change in politics and media outlets. Is climate change really at the heart of debate or is it just talked about when big events arise and then forgotten until next catastrophe? 
 We plotted the amount of quotes per week in a time series so as to visualize the evolution over time.
@@ -58,8 +60,10 @@ While these all cause notable spikes in media coverage, they disappear almost im
 </p>    
 <p style="text-align: justify;">
 We can also note the sharp decrease in the average number of quotes starting mid February of 2020. This is probably caused by the media coverage COVID-19 got as it took over the world. As the dataset stops in April of 2020 (which is when COVID was at it’s strongest) we just see the decrease. It would be interesting to see if we are back to the pre-COVID graph now. If we ignore 2020, it seems that the graph is trending upwards. This is encouraging, and we might finally be taking in the importance of what is ahead. 
-</p>  
-## Section 2
+</p> 
+
+
+<h2 id="section1"> II. Semantique Analysis </h2>
 <p style="text-align: justify;">
     Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum choerence number : 8 topics (à redire). For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic.  
@@ -479,7 +483,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <br><br>
 
-## Section 3
+<h2 id="section1"> III. Behavioral Analysis </h2>
 
 <div class="flex-divs-center">
 	<div>

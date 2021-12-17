@@ -460,8 +460,18 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 ## Section 3
 
-{% include pie_chart_parties_quotes.html %}
+<div class="flex-divs-center">
+	<div>
+	{% include pie_chart_parties_quotes.html %}
+	</div>
+	<div class="wrapper">
+	</div>
+	<div>
+	{% include bar_chart_words.html %}
+	</div>
+</div>
 <br>
+
 {% include pie_chart_crisis.html %}
 <br>
 {% include pie_chart_business.html %}

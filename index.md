@@ -493,7 +493,7 @@ This topic of climatological records gives the speech mainly to politicians who 
 </div>
 <br>
 
-{% include interactive_map.html %}
+{% include inteactive_map.html %}
 
 <br>
 {% include bar_chart_10.html %}

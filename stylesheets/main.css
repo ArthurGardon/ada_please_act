@@ -2,6 +2,10 @@
   max-width: 80%;
 }
 
+.main-content table{
+  display: table;
+}
+
 .large_content {
   max-width: 100%;
 }

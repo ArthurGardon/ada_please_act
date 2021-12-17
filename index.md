@@ -39,7 +39,7 @@
   <div class="flex-divs"><img src="./images/usa_word_cloud-small.png" /></div>
   <div class="wrapper"></div>
 	<div class="flex-divs-vertical" style="width: 50%;"><span class="commenttitle">Top Words appearing</span>
-		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>- Al Gore, Former US Vice President</div>
+		<span class="comment">“Believe in the power of your own voice. The more noise you make, the more accountability you demand from your leaders, the more our world will change for the better.” </span>         - Al Gore, Former US Vice President</div>
 </div>
 
 
@@ -68,11 +68,12 @@ We can also note the sharp decrease in the average number of quotes starting mid
 
 <h2 id="section2"> II. Semantique Analysis </h2>
 <p style="text-align: justify;">
-    Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply from the opinions of each speaker on climate change.<br><br>
+    Then, we focused on performing an LDA (Latent Dirichlet Allocation) on the dataset of quotes, with the aim of extracting the main topics, but especially in order to be able to distribute each document as belonging to a topic. The goal of this section is to highlight the differences in lexicon used by the speakers, and what these differences imply on the opinions of each speaker on climate change.<br><br>
    After running a cross validation on the numbeer of topics, we stood with the solution having the maximum average topic coherence : 8 topics. For each topic, we propose a list of the most significant and meaningful terms, and a title that encompasses and interprets the topic. In addition to this, for the most impacting topics, we provide a representative quote to illustrate them better. 
 </p>
 <br>
 <div class="flex-divs-center">
+	<p> Result of the LDA, after a projection the two dimensional principal components</p>
 	<div class="display : flex;">
 	{% include LDAvis.html %}
 	</div>
@@ -480,10 +481,10 @@ This topic of climatological records gives the speech mainly to politicians who 
 
 <h3> Conclusion of this Section </h3>
 <p style="text-align: justify;">
-We were able to show that some topics like topic 2 and topic 3, wear a certain denialist and minimizing ideology about climate change, refuse to see reality, and may moreover deal with climate change from an economic perspective and with a business logic. Those two topics which are close on a meaningful aspect, are also found close on the LDA PCA projection graph. And as the following cast shows, we can see that this ideology is unique to the Republican Party.</p>
+	We were able to show that some topics like <b>topic 2 and topic 3</b>, wear a certain denialist and minimizing ideology about climate change, refuse to see reality, and may moreover deal with climate change from an economic perspective and with a business logic. Those two topics which are close on a meaningful aspect, are also found close on the LDA PCA projection graph. And as the following cast shows, we can see that this ideology is unique to the <b>Republican</b> Party.</p>
 	
 <p style="text-align: justify;">
-On the other hand, Democrats are in the strong majority in topics 4 and topic 8, which we have established as axes which affirm the concrete impact of climate change, and give a speech that is both alarming and optimistic, which calls for action.
+	On the other hand, <b>Democrats</b> are in the strong majority in <b>topics 4 and topic 8</b>, which we have established as axes which affirm the concrete impact of climate change, and give a speech that is both <b>alarming and optimistic</b>, which calls for action.
 </p>
 	
 <div class="flex-divs-center">

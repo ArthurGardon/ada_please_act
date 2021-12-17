@@ -286,7 +286,7 @@ We can also note the sharp decrease in the average number of quotes starting mid
 <span class="comment">"There is no greater imperative at this time than mobilizing more private investment in clean energy deployment in communities throughout Connecticut and across this country to combat global climate change,"</span> - Gina McCarthy
 </p>
 
-<h3>Topic 5 : Energy</h3>
+<h3>Topic 5 : Air Pollution and Fossil Energy</h3>
 <div class="flex-divs">
   <div class="flex-divs-vertical-speaker">
     <h4>Top Words</h4>
@@ -327,6 +327,9 @@ We can also note the sharp decrease in the average number of quotes starting mid
     </ul>
   </div>
 </div>
+<p style="text-align: justify;">
+In this section, we see a lot of concern about the air quality from meteorologists. There are also words linked to the fossil energy. It is not new that most of the gas emissions are produced by fossil energy and are the principal cause of the global warming.
+	</p>
 
 <h3>Topic 6 : International Concern and Cooperation arround Climate Change</h3>
 <div class="flex-divs">

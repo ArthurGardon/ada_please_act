@@ -58,7 +58,9 @@ h4 {
   width: 3px;
   height: 80px;
   top: 60%;
+  display: block;
 }
+
 
 .flex-divs {
     display: flex;
